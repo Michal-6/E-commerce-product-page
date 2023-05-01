@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-ecommerce-product-page-hDgB0ghHc_
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-ecommerce-product-page-hDgB0ghHc
 - Live Site URL: https://michal-6.github.io/E-commerce-product-page/
 
 ## My process
